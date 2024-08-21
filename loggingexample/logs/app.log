@@ -1,0 +1,10 @@
+2024-05-19T21:08:56.377+05:30  INFO 25268 --- [loggingexample] [main] c.t.l.LoggingexampleApplication          : Starting LoggingexampleApplication using Java 17.0.9 with PID 25268 (C:\Users\39088\Downloads\loggingexample\loggingexample\target\classes started by 39088 in C:\Users\39088\Downloads\loggingexample\loggingexample)
+2024-05-19T21:08:56.382+05:30  INFO 25268 --- [loggingexample] [main] c.t.l.LoggingexampleApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-05-19T21:08:57.131+05:30  INFO 25268 --- [loggingexample] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2024-05-19T21:08:57.146+05:30  INFO 25268 --- [loggingexample] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-05-19T21:08:57.147+05:30  INFO 25268 --- [loggingexample] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.20]
+2024-05-19T21:08:57.204+05:30  INFO 25268 --- [loggingexample] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-05-19T21:08:57.205+05:30  INFO 25268 --- [loggingexample] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 778 ms
+2024-05-19T21:08:57.519+05:30  INFO 25268 --- [loggingexample] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path ''
+2024-05-19T21:08:57.529+05:30  INFO 25268 --- [loggingexample] [main] c.t.l.LoggingexampleApplication          : Started LoggingexampleApplication in 1.513 seconds (process running for 2.09)
+2024-05-19T21:46:14.911+05:30  INFO 25268 --- [loggingexample] [RMI TCP Connection(39)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
