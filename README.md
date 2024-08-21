@@ -1,1 +1,1 @@
-# SpeingBoot-Logging-Demo
+# SpringBoot-Logging-Demo
